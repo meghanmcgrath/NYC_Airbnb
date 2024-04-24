@@ -10,4 +10,4 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 This public dataset is part of Airbnb, and the original source can be found on insideairbnb.com.
 
 ## **Visualizations**
-The visualizations for the project were created in Tableau Public, which can be found here:https://public.tableau.com/app/profile/meghan.mcgrath/viz/NYCAirbnb-Exercise6_8/FINAL?publish=yes
+The visualizations for the project were created in Python and Tableau Public, which can be found here:https://public.tableau.com/app/profile/meghan.mcgrath/viz/NYCAirbnb-Exercise6_8/FINAL?publish=yes
